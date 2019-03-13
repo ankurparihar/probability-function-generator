@@ -5,7 +5,8 @@ In other words: Given the probability generate a function which returns 1 with t
 ## working
 **Inputs**
 - desired probability (best when it's binary representation is finite)<br>
-- desired binary precision (i.e. precision upto no of digits after decimal when probability value is written in binary formay)<br>
+- desired binary precision (i.e. precision upto no of digits after decimal when probability value is written in binary format)<br>
+<!--  -->
 **Output**
 - A sequence with variable `p`. `p` has probability `1/2`;<br>
 ## Example
